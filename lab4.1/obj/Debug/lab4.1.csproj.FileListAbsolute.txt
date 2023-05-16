@@ -1,0 +1,11 @@
+D:\VisualProject\lab\OOP\Lab4.1\lab4.1\lab4.1\bin\Debug\lab4.1.exe.config
+D:\VisualProject\lab\OOP\Lab4.1\lab4.1\lab4.1\bin\Debug\lab4.1.exe
+D:\VisualProject\lab\OOP\Lab4.1\lab4.1\lab4.1\bin\Debug\lab4.1.pdb
+D:\VisualProject\lab\OOP\Lab4.1\lab4.1\lab4.1\obj\Debug\lab4.1.csproj.AssemblyReference.cache
+D:\VisualProject\lab\OOP\Lab4.1\lab4.1\lab4.1\obj\Debug\lab4.1.csproj.SuggestedBindingRedirects.cache
+D:\VisualProject\lab\OOP\Lab4.1\lab4.1\lab4.1\obj\Debug\lab4._1.Form1.resources
+D:\VisualProject\lab\OOP\Lab4.1\lab4.1\lab4.1\obj\Debug\lab4._1.Properties.Resources.resources
+D:\VisualProject\lab\OOP\Lab4.1\lab4.1\lab4.1\obj\Debug\lab4.1.csproj.GenerateResource.cache
+D:\VisualProject\lab\OOP\Lab4.1\lab4.1\lab4.1\obj\Debug\lab4.1.csproj.CoreCompileInputs.cache
+D:\VisualProject\lab\OOP\Lab4.1\lab4.1\lab4.1\obj\Debug\lab4.1.exe
+D:\VisualProject\lab\OOP\Lab4.1\lab4.1\lab4.1\obj\Debug\lab4.1.pdb
